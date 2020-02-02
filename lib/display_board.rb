@@ -10,6 +10,8 @@ puts center_fold = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 
 puts triple_x = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 
+
+
 def display_board(game = board)
   puts " #{game[0]} | #{game[1]} | #{game[2]}   "
   puts "___________"
