@@ -18,6 +18,8 @@ puts diagonal_o_love = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 
 puts all = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
 
+puts
+
 
 
 def display_board(game = board)
