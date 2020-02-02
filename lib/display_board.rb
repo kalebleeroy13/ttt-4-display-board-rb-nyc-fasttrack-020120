@@ -18,7 +18,7 @@ puts diagonal_o_love = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 
 puts all = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
 
-puts
+puts xoxox = ["X", "O", "X", "O", "X", "X", "O", "X", "O"]
 
 
 
