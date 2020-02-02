@@ -12,6 +12,8 @@ puts triple_x = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 
 puts bottom_o = ["", " ", " ", " ", " ", " ", "O", "O", "O"]
 
+puts diagonal_x_love = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
+
 
 
 def display_board(game = board)
