@@ -2,7 +2,9 @@
 # out the current state.
 puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-puts center =[" ", " ", " ", " ", "X", " ", " ", " ", " "]
+puts center = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+
+puts top_l = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board(game = board)
   puts " #{game[0]} | #{game[1]} | #{game[2]}   "
