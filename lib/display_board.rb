@@ -14,7 +14,7 @@ puts bottom_o = ["", " ", " ", " ", " ", " ", "O", "O", "O"]
 
 puts diagonal_x_love = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
 
-puts diagonal_o_love = [" ", " ", "O", " ", " ", "O", " ", " ", " O"]
+puts diagonal_o_love = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 
 
 
