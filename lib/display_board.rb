@@ -4,7 +4,7 @@ puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts center =[" ", " ", " ", " ", "X", " ", " ", " ", " "]
 
-def display_board(game = board)
+def display_board(game)
   puts " #{game[0]} | #{game[1]} | #{game[2]}   "
   puts "___________"
   puts " #{game[3]} | #{game[4]} | #{game[5]}   "
