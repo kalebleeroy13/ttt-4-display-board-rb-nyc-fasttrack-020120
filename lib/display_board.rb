@@ -6,6 +6,10 @@ puts center = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 
 puts top_l = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 
+puts center_fold = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
+
+puts
+
 def display_board(game = board)
   puts " #{game[0]} | #{game[1]} | #{game[2]}   "
   puts "___________"
