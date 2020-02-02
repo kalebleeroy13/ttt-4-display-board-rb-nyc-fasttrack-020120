@@ -13,7 +13,7 @@ def display_board(game = board)
 end
 
 
-display_board(board)
+display_board()
 
 
 
